@@ -1,0 +1,57 @@
+1637094086464	geckodriver	INFO	Listening on 127.0.0.1:63527
+1637094089555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilelVGzZN"
+1637094089920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilelVGzZN\\search.json.mozlz4", (void 0)))
+1637094091731	Marionette	INFO	Listening on port 63536
+1637094092241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637097725406	Marionette	INFO	Stopped listening on port 63536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofileFRAYZI\\search.json.mozlz4", (void 0)))
+1637094149301	Marionette	INFO	Listening on port 63597
+1637094149416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637097727730	Marionette	INFO	Stopped listening on port 63597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofileDPyl1d\\search.json.mozlz4", (void 0)))
+1637094262872	Marionette	INFO	Listening on port 63698
+1637094263337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637097728593	Marionette	INFO	Stopped listening on port 63698
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+earchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofileFROgZu\\search.json.mozlz4", (void 0)))
+1637094408733	Marionette	INFO	Listening on port 63764
+1637094409038	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637094409157	Marionette	INFO	Stopped listening on port 63764
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1637097675522	geckodriver	INFO	Listening on 127.0.0.1:60292
+1637097678616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilecYJ3OC"
+1637097678981	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofilecYJ3OC\\search.json.mozlz4", (void 0)))
+1637097680852	Marionette	INFO	Listening on port 60300
+1637097681286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637097681391	Marionette	INFO	Stopped listening on port 60300
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637097681861	geckodriver	INFO	Listening on 127.0.0.1:60327
+1637097684938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofile9vwgk2"
+1637097685307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Acer\\AppData\\Local\\Temp\\rust_mozprofile9vwgk2\\search.json.mozlz4", (void 0)))
+1637097687189	Marionette	INFO	Listening on port 60337
+1637097687619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637097687700	Marionette	INFO	Stopped listening on port 60337
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
